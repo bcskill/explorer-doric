@@ -1,0 +1,13 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.2",
+        "kornrunner/keccak": "^1.1",
+        "nesbot/carbon": "^2.43"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gutierre69\\":"classes/Gutierre69",
+            "TWOamigos\\":"classes/TWOamigos"
+        }
+    }
+}
