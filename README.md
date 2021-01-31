@@ -5,7 +5,7 @@
 Doric Block Explorer is a PHP application that allows users to search transactions, blocks, wallets and smart contracts on the Doric network and provides a very simple interface for users to view, confirm, and inspect transactions on blockchain. 
 
 ## Required
-- Apache2 ou Nginx
+- Apache2 or Nginx
 - PHP 7.2 +
 - MySQL
 - Composer
@@ -18,8 +18,6 @@ Clone this repo on Apache/Nginx root folder.
 Import SQL database Schema from "schema" folder.
 
 Change name .env-example to **.env** and edit.
-
-See `test/test.php` for a complete example. 
 
 ## The Doric Project
 Visit [Doric Blockchain Page](https://doric.network/) for more details.
